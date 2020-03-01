@@ -1,0 +1,16 @@
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Identicon.deps.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Identicon.runtimeconfig.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Identicon.runtimeconfig.dev.json
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Identicon.dll
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.csprojAssemblyReference.cache
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.RazorAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.RazorAssemblyInfo.cs
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.AssemblyInfoInputs.cache
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.AssemblyInfo.cs
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.RazorTargetAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Identicon\Identicon\bin\Debug\netcoreapp2.1\Identicon.pdb
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.dll
+C:\Users\Lennert\source\repos\Identicon\Identicon\obj\Debug\netcoreapp2.1\Identicon.pdb
